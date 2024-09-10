@@ -1,10 +1,14 @@
-# Manual de Usuario: Módulo de Solicitudes
+# Manual de Usuario: Solicitudes
 
 ## 1. INTRODUCCIÓN
 
-El módulo **Solicitudes** es donde los KAM (Key Account Managers) pueden gestionar las solicitudes relacionadas con seguros y pólizas que realizan los clientes. A través de esta pantalla, los usuarios pueden filtrar, buscar, crear, editar y eliminar solicitudes, además de ver su estado actual.
+En este módulo puedes gestionar las **solicitudes** de los usuarios según sus necesidades. Algunas de las acciones clave que puedes realizar incluyen:
 
----
+- **Crear una nueva solicitud**: Desde el panel principal, selecciona la opción "Nueva Solicitud", completa los datos del usuario y especifica el tipo de solicitud.
+- **Buscar una solicitud existente**: Utiliza la barra de búsqueda para encontrar solicitudes por nombre del usuario, número de solicitud o fecha.
+- **Actualizar el estado de una solicitud**: Accede a cualquier solicitud y cambia su estado (En proceso, Completada, Pendiente).
+- **Filtrar solicitudes**: Aplica filtros por fecha, tipo de solicitud o estado para gestionar mejor el flujo de trabajo.
+
 
 ## 2. Pantalla Principal - SOLICITUDES
 
@@ -20,6 +24,8 @@ Al acceder al módulo de **Solicitudes**, te encontrarás con una pantalla como 
 - **Opciones de Acciones Rápidas**:
   - **Exportar**: Descarga un archivo con las solicitudes visibles en la tabla.
   - **Crear Nueva**: Inicia una nueva solicitud haciendo clic en el botón verde "+ Crear nueva".
+
+<YouTubeVideo videoId="WHv8Keu7FSg" />
 
 ---
 
