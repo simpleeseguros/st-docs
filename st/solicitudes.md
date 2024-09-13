@@ -9,61 +9,93 @@ En este módulo puedes gestionar las **solicitudes** de los usuarios según sus 
 - **Actualizar el estado de una solicitud**: Accede a cualquier solicitud y cambia su estado (En proceso, Completada, Pendiente).
 - **Filtrar solicitudes**: Aplica filtros por fecha, tipo de solicitud o estado para gestionar mejor el flujo de trabajo.
 
-
 ## 2. Pantalla Principal - SOLICITUDES
 
 Al acceder al módulo de **Solicitudes**, te encontrarás con una pantalla como la mostrada en la imagen.
 
-**Elementos principales:**
+Ella está contruida con elementos que apoyan la optimización y rendimiento del tiempo de las **KAM**. Además de una lista actualizada en tiempo real de las solicitudes recibidas por los usuarios a través de los diferentes canales.
 
-- **Filtros y Búsqueda**:
-  - **Calendario**: Selecciona un rango de fechas para filtrar las solicitudes.
-  - **Filtros**: Puedes aplicar filtros para organizar las solicitudes según productos, estados y tipos de solicitudes.
-  - **Barra de Búsqueda**: Utiliza esta barra para buscar solicitudes específicas, ingresando palabras clave o el nombre del cliente.
+
+```
+Por defecto el listado de solicitudes se filtra automaticamente por productos,  estados, tipos de solicitud y fecha actual.
+```
+
+### Elementos principales
+
+1. **Calendario**: Selecciona un rango de fechas para filtrar las solicitudes. Al hacer clic puedes seleccionar un rango de fechas específico como:
+
+   - **Semana Actual**
+   - **Mes Actual**
+   - **Año Actual**
+
+    Seleccionar un rango de **fechas personalizado** según:
+      - **Fecha de Creación**
+      - **Fecha de Cierre**
+
+2. **Filtros**: Puedes aplicar filtros para organizar las solicitudes según productos, estados y tipos de solicitudes.
+   - **Ejecutivo**: Podrás buscar por solicitudes asignadas a KAM. Si eres KAM, por defecto estará buscando las solicitudes asignadas a ti.
+   - **Productos**: Podrás filtrar los diferentes tipos de [**Producto**](#)
+   - **Estados**: Podrás filtrar por los diferentes tipos de [**Estados**](#)
+   - **Etiquetas**: Podrás filtrar por los diferentes tipos de [**Etiquetas**](#)
+   - **Tipo Solicitud**: Podrás filtrar por los diferentes tipos de [**Tipos de Solicitud**](#)
+   - **Prioridades**: Podrás filtrar por los diferentes tipos de [**Prioridades**](#)
+   - **Referido**: Podrás filtrar por los diferentes tipos de [**Referido**](#)
+   - **Canal**: Podrás filtrar por los diferentes tipos de [**Canales**](#)
+
+3. **Barra de Búsqueda**: Utiliza esta barra para buscar solicitudes específicas, ingresando palabras clave o el nombre del cliente.
 
 - **Opciones de Acciones Rápidas**:
-  - **Exportar**: Descarga un archivo con las solicitudes visibles en la tabla.
+  - **Limpiar Filtros**: Aparece del lado del calendario en forma de **X** dentro de un circulo. Lo que hace es limpiar todos los filtros aplicados.
+  - **Ver Ventas**: Aparece al lado de la barra de Búsqueda. Tiene un Símbolo de Dólar dentro de un circulo verde. Funciona para ver el listado de leads cerrados por la KAM.
+  - **Exportar**: Descarga un archivo en formato **.CSV** con las solicitudes visibles en la tabla.
   - **Crear Nueva**: Inicia una nueva solicitud haciendo clic en el botón verde "+ Crear nueva".
 
 <YouTubeVideo videoId="WHv8Keu7FSg" />
 
 ---
 
-## 3. Crear una Nueva Solicitud - SOLICITUDES
-
-1. **Acceso**: Desde la pantalla principal, haz clic en el botón **+ Crear nueva**.
-
-2. **Formulario**: Se abrirá un formulario donde deberás completar los siguientes campos:
-3. - **Obligatorio**: Rut, Email, o Teléfono. Tipo de Solicitud, Ejecutivo a Cargo, Canal, Campaña
-   - **Nombre del Cliente**: Ingresa el nombre del cliente que solicita el servicio.
-   - **Razón Social**: Completa el nombre de la empresa si aplica.
-   - **Teléfono**: Añade el número de contacto del cliente.
-   - **Tipo de Solicitud**: Elige entre las opciones disponibles (cotización, anulación de póliza, etc.).
-   - **Producto**: Selecciona el producto relacionado con la solicitud (seguro de vida, vehículo, etc.).
-   - **Fecha**: Automáticamente se generará la fecha actual.
-
-4. **Guardar**: Una vez completado el formulario, haz clic en **Guardar**. La solicitud aparecerá en el listado principal.
-
----
-
-## 4. Listado de Solicitudes - SOLICITUDES
+## 3. Listado de Solicitudes - SOLICITUDES
 
 La pantalla principal muestra una lista de todas las solicitudes con los siguientes campos:
 
 - **Nombre**: Nombre del cliente que realiza la solicitud.
-- **Razón Social**: Empresa asociada al cliente.
-- **Teléfono**: Número de contacto del cliente.
+- **Razón Social**: Nombre de Empresa asociada al cliente.
+- **Teléfono**: Número de contacto del cliente. 
 - **Tipo de Solicitud**: Categoría de la solicitud (cotización, cancelación, etc.).
 - **Producto**: El tipo de seguro o póliza solicitado.
 - **Fecha**: La fecha en que se realizó la solicitud.
 - **Estado**: Estado actual de la solicitud (Sin estado, Espera Pago, etc.).
 - **Ejecutiva/o**: El KAM responsable de la solicitud.
 
+::: tip
+Al hacer clic en el número de teléfono. Automaticamente te llevará al whatsapp del usuario que realizó la solicitud
+:::
+
 Cada solicitud también tiene varias **acciones** disponibles en la columna de la derecha:
 
 - **Editar**: Haz clic en el ícono de lápiz para modificar la solicitud.
 - **Eliminar**: Haz clic en el ícono de papelera para eliminar la solicitud.
 - **Prioridad**: Usa el ícono de estrella para marcar las solicitudes de alta prioridad.
+
+---
+
+## 4. Crear una Nueva Solicitud - SOLICITUDES
+
+1. **Acceso**: Desde la pantalla principal, haz clic en el botón verde **+ Crear nueva**.
+
+2. **Formulario**: Se abrirá un formulario donde deberás completar los siguientes campos:
+3. - **Obligatorio**: Rut, Email, o Teléfono; Tipo de Solicitud, Ejecutivo a Cargo, Canal, Campaña.
+   - **Rut, Email o Teléfono**: Ingresa el nombre del cliente que solicita el servicio.
+   - **Tipo de Solicitud**: Completa el nombre de la empresa si aplica.
+   - **Ejecutivo a Cargo**: Añade el número de contacto del cliente.
+   - **Canal**: Elige entre las opciones disponibles [**Canales**](#)
+   - **Campaña**: Selecciona el producto relacionado con la solicitud [**Campaña**](#)
+   Estos son los datos mínimos para que una KAM pueda crear una Solicitud desde la plataforma.
+
+   En la mayoría de las ocaciones la **Solicitud** llega a través de un canal predeterminado. En ese caso la KAM debe contactarse directamente con el usuario para completar los datos requeridos y atender los requerimientos solicitados.
+
+4. **Guardar**: Una vez completado el formulario, haz clic en **Guardar**. La solicitud aparecerá en el listado principal.
+5. Regresar a la pantalla Principal
 
 ---
 
@@ -81,7 +113,7 @@ El estado de las solicitudes es importante para mantener el seguimiento adecuado
 
 1. **Acceder al Estado**: En el listado de solicitudes, verás una columna llamada **Estado**. Aquí, cada solicitud puede tener diferentes estados como "Sin Estado" o "Espera Pago".
 
-2. **Cambiar Estado**: Puedes actualizar el estado de una solicitud accediendo a los detalles y seleccionando el nuevo estado desde el menú desplegable.
+2. **Cambiar Estado**: Puedes actualizar el estado de una solicitud haciendo clic en el ícono de lápiz y seleccionando el nuevo estado desde el menú desplegable.
 
 ---
 
@@ -93,11 +125,10 @@ El estado de las solicitudes es importante para mantener el seguimiento adecuado
 
 ---
 
-## 8. Filtros y Búsqueda Avanzada - SOLICITUDES
+## 8. Priorizar Solicitudes - SOLICITUDES
 
-- **Filtro por Fecha**: Haz clic en el ícono de calendario para seleccionar un rango de fechas y filtrar las solicitudes.
-- **Filtro por Estado y Producto**: Utiliza los botones de filtro para ver solo solicitudes de un producto específico o que se encuentren en un estado particular.
-- **Búsqueda por Nombre o Razón Social**: En la barra de búsqueda, escribe el nombre del cliente o de la empresa para encontrar solicitudes rápidamente.
+- **Prioridad**: En la columna de acciones observarás un ícono con forma de estrella. Esto funciona para que las KAM puedan dar prioridad o atención preferencial a una o varias solicitudes específicas.
+- **Observar Prioridades**: Arriba de la columna nombres que está en el listado, hay un ícono de una Estrella en conjunto con la Palabra **Prioridades**. Al hacer clic allí, se mostrará el listado de aquellas solicitudes que marcaste como prioritarias, las cuales le quieres dar atención preferencial.
 
 ---
 
