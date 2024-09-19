@@ -1,3 +1,6 @@
+---
+titleTemplate: Simplee Teams
+---
 # Introducción
 
 **ST** es una solución integral diseñada para facilitar la gestión de las principales actividades relacionadas con la administración de clientes en la industria de seguros. Este CRM centraliza y organiza todos los procesos clave de los usuarios, permitiéndote optimizar la gestión de:
@@ -12,4 +15,3 @@
 Además, **ST** te permite personalizar y configurar tu perfil de usuario, adaptando la experiencia del CRM a tus necesidades específicas.
 
 Esta documentación tiene como objetivo guiarte a través del uso de las funcionalidades clave de **ST**, asegurando que puedas sacar el máximo provecho de la plataforma para la gestión eficiente de tus clientes y operaciones comerciales.
-

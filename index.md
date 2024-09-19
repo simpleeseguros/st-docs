@@ -15,11 +15,11 @@ hero:
       link: /apidev/api-examples
 
 features:
-  - title: Feature A
+  - title: ¿Cómo registrarme en Simplee Teams?
     details: En desarrollo
-  - title: Feature B
+  - title: ¿Cómo marcar una solicitud como prioritaria?
     details: En desarrollo
-  - title: Feature C
+  - title: ¿Qué hago si la solicitud tiene un error?
     details: En desarrollo
   
   - title: Feature D

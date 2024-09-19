@@ -8,7 +8,10 @@ export default defineConfig({
   description: "Documentación ST",
   head: [
     // Agrega el enlace al favicon
-    ["link", { rel: "icon", href: "https://simplee.cl/favicon.ico" }],
+    [
+      "link",
+      { rel: "icon", href: "https://simplee.cl/favicon.ico", title: "Teams" },
+    ],
   ],
   themeConfig: {
     logo: "https://teams-qa.simplee.cl/_nuxt/img/simplee.68895d0.png",
@@ -27,6 +30,7 @@ export default defineConfig({
         text: "Manual de Usuario-ST",
         items: [
           { text: "Introducción", link: "/st/" },
+          { text: "Registro e Iniciar Sesión", link: "/st/registrarse" },
           { text: "Solicitudes", link: "/st/solicitudes" },
           { text: "Leads", link: "/st/leads" },
           { text: "Clientes", link: "/st/clientes" },
