@@ -15,9 +15,9 @@ Para acceder a la página de **Leads**, sigue estos pasos:
 
 ## 2. **Vista General de la Página de Leads**
 
-### Elementos principales:
+### Elementos principales
 
-- **Barra de búsqueda y filtros:** 
+- **Barra de búsqueda y filtros:**
   - Usa la barra superior para buscar leads por nombre, razón social, RUT o cualquier otro criterio relevante.
   - Aplica filtros avanzados haciendo clic en el botón **Filtros** para segmentar los leads según tus necesidades.
 
@@ -25,7 +25,7 @@ Para acceder a la página de **Leads**, sigue estos pasos:
   - **Exportar:** Te permite descargar la lista completa de leads en un formato CSV o Excel.
   - **Crear nueva:** Sirve para agregar un nuevo lead manualmente, ingresando toda la información necesaria.
 
-### Información de la tabla de Leads:
+### Información de la tabla de Leads
 
 La tabla de leads te muestra la siguiente información:
 
@@ -57,13 +57,13 @@ La tabla de leads te muestra la siguiente información:
 
 ## 4. **Filtrar y Buscar Leads**
 
-### Filtrar Leads:
+### Filtrar Leads
 
 1. Haz clic en el botón **Filtros** en la parte superior.
 2. Elige las opciones de filtrado como fecha de creación, ejecutivo responsable, estado de la solicitud, entre otros.
 3. Aplica los filtros y la lista se actualizará según los criterios seleccionados.
 
-### Buscar un Lead:
+### Buscar un Lead
 
 1. Escribe en la barra de búsqueda el nombre, RUT o cualquier otro dato relacionado con el lead que deseas encontrar.
 2. Haz clic en **Buscar** y los resultados se mostrarán en la tabla.
@@ -75,19 +75,21 @@ La tabla de leads te muestra la siguiente información:
 Para exportar tu lista de leads a un archivo CSV o Excel:
 
 1. Haz clic en el botón **Exportar**.
-2. Selecciona el formato deseado y la descarga se iniciará automáticamente.
+2. Selecciona la zona horaria.
+3. Haz clic en enviar csv
+Vas a recibir el archivo a través de correo electrónico
 
 ---
 
 ## 6. **Editar y Eliminar Leads**
 
-### Editar un Lead:
+### Editar un Lead
 
 1. En la tabla de leads, localiza el lead que deseas modificar.
 2. Haz clic en el ícono de **editar** (el lápiz) que se encuentra en la columna de acciones.
 3. Modifica la información necesaria y guarda los cambios.
 
-### Eliminar un Lead:
+### Eliminar un Lead
 
 1. Haz clic en el ícono de **eliminar** (el bote de basura) en la columna de acciones.
 2. Confirma la eliminación. Esta acción no se puede deshacer.
@@ -117,9 +119,11 @@ Esta vista te permite realizar un seguimiento más específico de las interaccio
 ## Preguntas Frecuentes
 
 ### ¿Qué sucede si elimino un lead por error?
+
 Los leads eliminados no se pueden recuperar, por lo que es importante asegurarte antes de confirmar la eliminación.
 
 ### ¿Puedo asignar múltiples ejecutivos a un mismo lead?
+
 Actualmente, solo se puede asignar un ejecutivo por lead para mantener una gestión clara y organizada.
 
 ---
