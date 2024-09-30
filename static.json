@@ -1,3 +1,7 @@
-{
-    "root": ".vitepress/dist"
+  {
+   "root": ".vitepress/dist",
+    "clean_urls": true,
+    "routes": {
+      "/**": "index.html"
+    }
   }
