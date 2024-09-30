@@ -1,1 +1,1 @@
-web: npm run docs:build && npm run docs:preview
+web: npm run docs:preview
