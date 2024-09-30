@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.BWVp4W19.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"st/filtros/referido.md","filePath":"st/filtros/referido.md"}'),o={name:"st/filtros/referido.md"};function s(a,i,c,f,n,d){return r(),t("div")}const l=e(o,[["render",s]]);export{_ as __pageData,l as default};

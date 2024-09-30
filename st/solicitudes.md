@@ -50,7 +50,8 @@ Por defecto el listado de solicitudes se filtra automaticamente por productos,  
   - **Exportar**: Descarga un archivo en formato **.CSV** con las solicitudes visibles en la tabla.
   - **Crear Nueva**: Inicia una nueva solicitud haciendo clic en el botón verde "+ Crear nueva".
 
-<YouTubeVideo videoId="WHv8Keu7FSg" />
+<YouTubeVideo videoId="k41UV3wIQTM" />
+https://youtu.be/k41UV3wIQTM
 
 ---
 
