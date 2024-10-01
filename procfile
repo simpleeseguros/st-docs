@@ -1,1 +1,1 @@
-web: node ./.vitepress/dist/server.js
+web: npm run docs:build && npm run docs:serve
