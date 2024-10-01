@@ -1,1 +1,0 @@
-import{_ as t,c as o,o as e}from"./chunks/framework.Bv650g5q.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"st/filtros/tiposolicitud.md","filePath":"st/filtros/tiposolicitud.md"}'),s={name:"st/filtros/tiposolicitud.md"};function i(r,a,c,n,p,d){return e(),o("div")}const _=t(s,[["render",i]]);export{f as __pageData,_ as default};

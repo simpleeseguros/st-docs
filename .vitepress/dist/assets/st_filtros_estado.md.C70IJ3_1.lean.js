@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as s}from"./chunks/framework.C5Pb2s_8.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"st/filtros/estado.md","filePath":"st/filtros/estado.md"}'),a={name:"st/filtros/estado.md"};function o(r,c,n,d,i,f){return s(),e("div")}const l=t(a,[["render",o]]);export{_ as __pageData,l as default};
