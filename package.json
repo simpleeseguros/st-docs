@@ -7,7 +7,7 @@
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
-    "start": "vitepress build && vitepress serve"
+    "start": "vitepress build && vitepress serve --port $PORT --host 0.0.0.0"
   },
   "dependencies": {
     "serve": "^14.2.3",
