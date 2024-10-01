@@ -9,10 +9,8 @@
     "docs:build": "vitepress build",
     "start": "vitepress build && vitepress serve"
   },
-  "devDependencies": {
-    "vitepress": "^1.3.4"
-  },
   "dependencies": {
-    "serve": "^14.2.3"
+    "serve": "^14.2.3",
+    "vitepress": "^1.3.4"
   }
 }
