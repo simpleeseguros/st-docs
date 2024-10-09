@@ -14,7 +14,7 @@ Primero, dirígete a la [**página de registro de Simplee Teams**](https://teams
 
 ## 2. **Completar el Formulario de Registro**
 
-### Campos del Formulario:
+### Campos del Formulario
 
 - **Nombre:** Ingrese su nombre completo.
 - **Apellido:** Escriba su apellido.
@@ -24,13 +24,13 @@ Primero, dirígete a la [**página de registro de Simplee Teams**](https://teams
 - **Contraseña:** Cree una contraseña segura. Se recomienda usar una combinación de letras, números y símbolos especiales.
 - **Confirmar contraseña:** Vuelva a ingresar la misma contraseña para confirmarla.
 
-### Ejemplo de formulario completado:
+### Ejemplo de formulario completado
 
 - **Nombre:** Alberto
 - **Apellido:** Graterol
 - **Escribe sobre ti:** Desarrollador Full Stack.
 - **Fecha de nacimiento:** 10/03/2000
-- **Correo electrónico:** alberto@simplee.cl
+- **Correo electrónico:** <alberto@simplee.cl>
 - **Contraseña:** *********
 - **Confirmar contraseña:** *********
 
@@ -65,7 +65,7 @@ Una vez que hayas verificado tu cuenta, podrás iniciar sesión utilizando tu co
 
 ---
 
-## Consejos para el Registro y Seguridad:
+## Consejos para el Registro y Seguridad
 
 - **Usa siempre un correo corporativo:** Esto garantiza que tu cuenta esté vinculada correctamente a la empresa o equipo con el que colaboras.
 - **Crea una contraseña fuerte:** La seguridad es importante. Usa una combinación de mayúsculas, minúsculas, números y caracteres especiales para proteger tu cuenta.
