@@ -141,6 +141,10 @@ El estado de las solicitudes es importante para mantener el seguimiento adecuado
 - **¿Cómo marcar una solicitud como prioritaria?**  
   - Usa el ícono de estrella en la columna de **Acciones** para marcar una solicitud como de alta prioridad.
 
+### ¿Aún tienes problemas?
+
+Si no recibes el correo o encuentras algún inconveniente al restablecer tu contraseña, puedes contactar a Alberto a través de correo electrónico **<alberto@simplee.cl>** de **Equipo de TI** para obtener soporte técnico.
+
 ---
 
 Este manual proporciona una guía clara para que los KAMs puedan gestionar de manera eficiente las solicitudes de los clientes en el CRM de seguros.

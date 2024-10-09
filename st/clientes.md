@@ -93,3 +93,4 @@ En la esquina superior derecha, se muestra el **número total de resultados**, i
 ## 7. Conclusión
 
 El módulo de **Clientes** en **Simplee Teams** es una herramienta poderosa para la gestión de relaciones con los clientes. A través de una interfaz simple e intuitiva, puedes buscar, filtrar, editar, eliminar y fusionar clientes, así como exportar la información para análisis externos. Además, permite a los equipos de ventas y postventa realizar un seguimiento detallado de las actividades y solicitudes de cada cliente.
+

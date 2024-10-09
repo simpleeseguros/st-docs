@@ -83,6 +83,10 @@ Es recomendable utilizar un correo corporativo, ya que te proporcionará acceso 
 
 Si no encuentras el correo en tu bandeja de entrada, verifica la carpeta de spam o correo no deseado. Si aún no lo recibes, puedes solicitar que te envíen un nuevo correo desde la página de inicio de sesión.
 
+### ¿Aún tienes problemas?
+
+Si no recibes el correo o encuentras algún inconveniente al restablecer tu contraseña, puedes contactar a Alberto a través de correo electrónico **<alberto@simplee.cl>** de **Equipo de TI** para obtener soporte técnico.
+
 ---
 
 Siguiendo estos sencillos pasos, podrás registrarte correctamente en **Simplee Teams** y comenzar a aprovechar todas las herramientas y funciones diseñadas para optimizar la gestión de tu equipo y trabajo.

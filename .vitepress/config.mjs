@@ -30,6 +30,7 @@ export default defineConfig({
         items: [
           { text: "Introducción", link: "/st/" },
           { text: "Registro e Iniciar Sesión", link: "/st/registrarse" },
+          { text: "Olvidé mi Contraseña", link: "/st/recuperarpass" }, 
           { text: "Solicitudes", link: "/st/solicitudes" },
           { text: "Leads", link: "/st/leads" },
           { text: "Clientes", link: "/st/clientes" },
