@@ -8,8 +8,6 @@ Si olvidaste tu contraseña en Simplee Teams, sigue estos sencillos pasos para r
 
 1. En la página de inicio de sesión de **Simplee Teams**, localiza la opción **¿Olvidaste tu contraseña?** justo debajo del campo de contraseña.
 
-   ![Página de inicio de sesión](image.png)
-
 2. Haz clic en **¿Olvidaste tu contraseña?**. Serás redirigido a una nueva página para restablecerla.
 
 ---
