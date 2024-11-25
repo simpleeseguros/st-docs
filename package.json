@@ -7,6 +7,7 @@
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",
+    "preview": "vitepress preview",
     "start": "vitepress build && vitepress preview"
   },
   "dependencies": {

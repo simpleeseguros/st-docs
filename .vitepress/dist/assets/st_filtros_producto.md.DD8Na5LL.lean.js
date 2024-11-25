@@ -1,1 +1,0 @@
-import{_ as t,c as o,o as e}from"./chunks/framework.C5Pb2s_8.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"st/filtros/producto.md","filePath":"st/filtros/producto.md"}'),r={name:"st/filtros/producto.md"};function s(a,c,n,p,d,i){return e(),o("div")}const l=t(r,[["render",s]]);export{_ as __pageData,l as default};
