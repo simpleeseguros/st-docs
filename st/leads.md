@@ -1,4 +1,4 @@
-# Documentación de la Página de Leads en Simplee Teams
+# Leads
 
 La sección de **Leads** en Simplee Teams te permite gestionar los prospectos o clientes potenciales de tu empresa, facilitando el seguimiento de la información relevante de cada uno de ellos. A continuación, te mostramos cómo usar esta sección paso a paso.
 

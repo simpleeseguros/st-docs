@@ -1,4 +1,4 @@
-# Manual de Usuario: Solicitudes
+# Solicitudes
 
 ## 1. INTRODUCCIÓN
 
@@ -14,7 +14,6 @@ En este módulo puedes gestionar las **solicitudes** de los usuarios según sus 
 Al acceder al módulo de **Solicitudes**, te encontrarás con una pantalla como la mostrada en la imagen.
 
 Ella está contruida con elementos que apoyan la optimización y rendimiento del tiempo de las **KAM**. Además de una lista actualizada en tiempo real de las solicitudes recibidas por los usuarios a través de los diferentes canales.
-
 
 ```
 Por defecto el listado de solicitudes se filtra automaticamente por productos,  estados, tipos de solicitud y fecha actual.
@@ -61,7 +60,7 @@ La pantalla principal muestra una lista de todas las solicitudes con los siguien
 
 - **Nombre**: Nombre del cliente que realiza la solicitud.
 - **Razón Social**: Nombre de Empresa asociada al cliente.
-- **Teléfono**: Número de contacto del cliente. 
+- **Teléfono**: Número de contacto del cliente.
 - **Tipo de Solicitud**: Categoría de la solicitud (cotización, cancelación, etc.).
 - **Producto**: El tipo de seguro o póliza solicitado.
 - **Fecha**: La fecha en que se realizó la solicitud.

@@ -1,4 +1,4 @@
-# Documentación - Postventa en Simplee Teams
+# Postventa
 
 El módulo de **Postventa** en Simplee Teams permite la gestión de pólizas, seguimiento de renovaciones y otros servicios relacionados con la postventa de seguros. A continuación, se describe paso a paso las funcionalidades de la página de postventa que se observan en la imagen.
 
