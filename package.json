@@ -8,7 +8,7 @@
     "dev": "vitepress dev",
     "build": "vitepress build",
     "preview": "vitepress preview",
-    "start": "vitepress build && vitepress preview"
+    "start": "vitepress build && vitepress serve --port $PORT --host 0.0.0.0"
   },
   "dependencies": {
     "serve": "^14.2.3",
